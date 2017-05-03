@@ -1,0 +1,24 @@
+{
+  "name": "@hh.ru/gulp-minify-images",
+  "version": "1.0.0",
+  "description": "library for cli images minify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhru/gulp-minify-images.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Ermakov Sergey <s.ermakov@hh.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhru/gulp-minify-images/issues"
+  },
+  "homepage": "https://github.com/hhru/gulp-minify-images",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "~3.1.1",
+    "yargs": "~3.15.0"
+  }
+}
