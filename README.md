@@ -37,6 +37,10 @@ gulp.task('minify-images', minifyImagesCli);
 
 ## История изменений
 
+###1.0.1
+
+* Установили жесткие зависимости на gulp-imagemin и imagemin
+
 ###1.0.0
 
 * первичный релиз
