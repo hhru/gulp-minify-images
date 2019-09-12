@@ -1,6 +1,6 @@
 {
   "name": "@hh.ru/gulp-minify-images",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "library for cli images minify",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,6 @@
     "yargs": "~3.15.0"
   },
   "dependencies": {
-    "gulp-imagemin": "4.1.0",
-    "imagemin": "5.3.1"
+    "gulp-imagemin": "6.1.0"
   }
 }
