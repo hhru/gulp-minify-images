@@ -1,6 +1,6 @@
 {
   "name": "@hh.ru/gulp-minify-images",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "library for cli images minify",
   "main": "index.js",
   "repository": {
