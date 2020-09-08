@@ -24,6 +24,7 @@
     "gulp-imagemin": "6.1.0"
   },
   "resolutions": {
-    "kind-of": "6.0.3"
+    "kind-of": "6.0.3",
+    "gulp-imagemin/**/tar-stream": "2.1.3"
   }
 }
